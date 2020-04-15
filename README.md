@@ -22,3 +22,24 @@
   <img height ="300" width="200" alt="4" src="https://user-images.githubusercontent.com/52276038/79202504-ac491c00-7e74-11ea-9cad-a4c3b928763d.png">  <img height ="300" width="300" alt="5" src="https://user-images.githubusercontent.com/52276038/79202507-ace1b280-7e74-11ea-8cce-e1e650b3d0fb.png">
 
 ------
+
+- RSA - RSA 암호화, 복호화를 수행하는 cpp
+
+  사용자로부터 정수 형태의 메시지를 받아 메시지를 암호화·복호화 한 결과를 보인다.
+
+  p,q 의 각각 크기는 15bit
+
+  알고리즘
+
+  A.   Square and multiply algorithm for modular exponentiation
+
+  B.   Miller-Rabin Primality test (테스트는 20회로 설정)
+
+  C.   Extended Euclidean Algorithm
+
+  D.   Chinese Remainder Theorem. 
+
+  <img height = "200" width="300" alt="1" src="https://user-images.githubusercontent.com/52276038/79311206-0b239980-7f38-11ea-9d98-2714e429f685.png">
+
+------
+
